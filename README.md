@@ -13,7 +13,7 @@
 </picture>
 
 ```bash
-# I automate everything I do so I can be lazy :D
+# I automate stuff :D
 ```
 <!---
 gsaudade99/gsaudade99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
